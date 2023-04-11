@@ -1,0 +1,10 @@
+{
+	"token" : " ",
+	"token_secret" : " ",
+	"consumer_key" : "gm1bRqXG1eKJh62nWkxsokDwy",
+	"consumer_secret" : "Ks8xe641VoSoNZf9jC7NgJgEIuhFG1PC8WlRK35R6XxyG3FESL",
+	"db_host" : "localhost",
+	"db_user" : "root",
+	"db_passwd" : "12345678",
+	"db_name" : "smdm"
+}
